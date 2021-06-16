@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+}
+
+h1{
+  margin: 0;
+}
+
+.top{
+  background-color:#e4f9f5;
+
+
+}
+.middle{
+  height:100px;
+    width:200px;
+  background-color: green;
+
+}
+.bottom{
+  height:100px;
+    width:200px;
+  background-color: blue;
+
+}
+.so
+{
+margin:0;
+}
+
+
+.red
+{
+  height:100px;
+  width:100px;
+  position:absolute;
+  background-color: red;
+  left:200px;
+  top:200px;
+  display: inline-block;
+}
+
+.blue
+{
+  height:100px;
+  width:100px;
+ position:absolute;
+  background-color:blue;
+ left:100px;
+ top:100px;
+display: inline-block;
+}
+
+.yellow
+{
+  height:100px;
+  width:100px;
+  position:absolute;
+  background-color:yellow;
+display: inline-block;
+left:0px;
+}
