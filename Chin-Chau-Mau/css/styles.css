@@ -51,10 +51,17 @@ body
 
 .title-image
 {
+<<<<<<< HEAD
   width:80%;
   transform: rotate(25deg);
   position: absolute;
   right:10%;
+=======
+  width:60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right:30%;
+>>>>>>> aca28ad7938b874b8117465dd041128dac0e6345
   text-align: center;
 }
 
